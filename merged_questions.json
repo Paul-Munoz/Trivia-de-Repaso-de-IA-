@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Según la diapositiva 3, ¿cuál es la capacidad clave que resume lo que es la Inteligencia Artificial?",
+    "options": [
+      "Capacidad de las máquinas para calcular grandes números.",
+      "Capacidad de las máquinas para pensar y actuar como seres humanos.",
+      "Capacidad de las máquinas para almacenar grandes volúmenes de datos.",
+      "Capacidad de las máquinas para conectarse a Internet."
+    ],
+    "answer": "Capacidad de las máquinas para pensar y actuar como seres humanos.",
+    "concept": "Definición de IA (S3)",
+    "formula": "Disciplina que busca que los sistemas y programas imiten la inteligencia humana.",
+    "category": "Introducción y Fases"
+  },
+  {
+    "question": "Menciona una de las cinco fases de la IA que se mencionan en la diapositiva 5, posterior a Deep Learning.",
+    "options": [
+      "IA General",
+      "Machine Learning Clásico",
+      "IA Gen",
+      "Inteligencia Artificial Débil"
+    ],
+    "answer": "IA Gen",
+    "concept": "Fases de la IA (S5)",
+    "formula": "Técnicas avanzadas de Arquitecturas GANs y transformadores.",
+    "category": "Introducción y Fases"
+  },
+  {
+    "question": "¿Qué fase de la IA se inspira en el funcionamiento de sistemas nerviosos?",
+    "options": [
+      "Machine Learning",
+      "Inteligencia Artificial",
+      "Neural Network",
+      "IA Gen"
+    ],
+    "answer": "Neural Network",
+    "concept": "Fases de la IA (S5)",
+    "formula": "Se inspira en sistemas nerviosos.",
+    "category": "Introducción y Fases"
+  },
+  {
+    "question": "¿Qué fase se describe como el uso de técnicas que utilizan métodos estadísticos para permitir a las máquinas aprender?",
+    "options": [
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Network",
+      "IA Gen"
+    ],
+    "answer": "Machine Learning",
+    "concept": "Fases de la IA (S5)",
+    "formula": "Utiliza métodos estadísticos para el aprendizaje.",
+    "category": "Introducción y Fases"
+  },
+  {
+    "question": "¿Cuál es la fase de la IA que hace uso de redes neuronales complejas?",
+    "options": [
+      "Inteligencia Artificial",
+      "Machine Learning",
+      "Deep Learning",
+      "IA Gen"
+    ],
+    "answer": "Deep Learning",
+    "concept": "Fases de la IA (S5)",
+    "formula": "Hace uso de redes neuronales complejas.",
+    "category": "Introducción y Fases"
+  },
+  {
+    "question": "¿Qué clasificación de IA se caracteriza por tener la capacidad de ejecutar tareas intelectuales, pero con un enfoque específico, como el reconocimiento de imágenes?",
+    "options": [
+      "IA General (AGI)",
+      "Super Inteligencia (ASI)",
+      "IA Débil (ANI)",
+      "Machine Learning"
+    ],
+    "answer": "IA Débil (ANI)",
+    "concept": "Clasificación por Capacidad (S7)",
+    "formula": "Inteligencia Artificial Estrecha/Débil (ANI).",
+    "category": "Clasificación"
+  },
+  {
+    "question": "¿Qué tipo de IA posee una capacidad igual a la del ser humano en todas las tareas intelectuales?",
+    "options": [
+      "IA Gen",
+      "Super Inteligencia (ASI)",
+      "IA Débil (ANI)",
+      "IA General (AGI)"
+    ],
+    "answer": "IA General (AGI)",
+    "concept": "Clasificación por Capacidad (S7)",
+    "formula": "Inteligencia Artificial General (AGI).",
+    "category": "Clasificación"
+  },
+  {
+    "question": "¿A qué clasificación corresponde una IA que supera la inteligencia humana en todos los aspectos?",
+    "options": [
+      "IA Débil (ANI)",
+      "IA General (AGI)",
+      "Super Inteligencia (ASI)",
+      "Deep Learning"
+    ],
+    "answer": "Super Inteligencia (ASI)",
+    "concept": "Clasificación por Capacidad (S7)",
+    "formula": "Super Inteligencia Artificial (ASI).",
+    "category": "Clasificación"
+  },
+  {
+    "question": "Según la Clasificación de la IA por Funcionalidad, ¿qué tipo de máquina puede percibir y adaptarse a los cambios en su entorno, como los vehículos autónomos?",
+    "options": [
+      "Máquinas Reactivas",
+      "Memoria Limitada",
+      "Teoría de la Mente",
+      "Auto-Conciencia"
+    ],
+    "answer": "Memoria Limitada",
+    "concept": "Clasificación por Funcionalidad (S7)",
+    "formula": "Memoria Limitada (ej: vehículos autónomos).",
+    "category": "Clasificación"
+  },
+  {
+    "question": "¿Qué tipo de IA, clasificada por funcionalidad, puede entender que otras entidades tienen creencias y deseos?",
+    "options": [
+      "Máquinas Reactivas",
+      "Memoria Limitada",
+      "Teoría de la Mente",
+      "Auto-Conciencia"
+    ],
+    "answer": "Teoría de la Mente",
+    "concept": "Clasificación por Funcionalidad (S7)",
+    "formula": "Teoría de la Mente (requiere avances significativos).",
+    "category": "Clasificación"
+  },
+  {
+    "question": "¿Cómo se llama al resultado donde se predice correctamente la ausencia de una condición (ej. la persona está sana y se predice sana)?",
+    "options": [
+      "Falso Positivo",
+      "Falso Negativo",
+      "Verdadero Positivo",
+      "Verdadero Negativo"
+    ],
+    "answer": "Verdadero Negativo",
+    "concept": "Matriz de Confusión - VN (S63)",
+    "formula": "VN: Persona sana, predicha sana.",
+    "category": "Matriz de Confusión"
+  },
+  {
+    "question": "¿Qué término se usa cuando se determina erróneamente que se tiene una enfermedad (ej. persona sana, predicha enferma)?",
+    "options": [
+      "Falso Positivo",
+      "Falso Negativo",
+      "Verdadero Positivo",
+      "Verdadero Negativo"
+    ],
+    "answer": "Falso Positivo",
+    "concept": "Matriz de Confusión - FP (S63)",
+    "formula": "FP: Persona sana, predicha enferma (Error Tipo I).",
+    "category": "Matriz de Confusión"
+  },
+  {
+    "question": "¿Cómo se define un Falso Negativo?",
+    "options": [
+      "Persona enferma, predicha enferma.",
+      "Persona sana, predicha enferma.",
+      "Persona sana, predicha sana.",
+      "Persona enferma, predicha sana."
+    ],
+    "answer": "Persona enferma, predicha sana.",
+    "concept": "Matriz de Confusión - FN (S63)",
+    "formula": "FN: Persona enferma, predicha sana (Error Tipo II).",
+    "category": "Matriz de Confusión"
+  },
+  {
+    "question": "¿Qué valor de la Matriz de Confusión representa un resultado donde la condición está presente y se predice correctamente su presencia (ej. persona enferma, predicha enferma)?",
+    "options": [
+      "Falso Positivo",
+      "Falso Negativo",
+      "Verdadero Positivo",
+      "Verdadero Negativo"
+    ],
+    "answer": "Verdadero Positivo",
+    "concept": "Matriz de Confusión - VP (S63)",
+    "formula": "VP: Persona enferma, predicha enferma.",
+    "category": "Matriz de Confusión"
+  },
+  {
+    "question": "¿Qué error se conoce también como Error Tipo I?",
+    "options": [
+      "Verdadero Positivo",
+      "Falso Positivo",
+      "Verdadero Negativo",
+      "Falso Negativo"
+    ],
+    "answer": "Falso Positivo",
+    "concept": "Matriz de Confusión - Error Tipo I (S63)",
+    "formula": "El FP es conocido como Error Tipo I.",
+    "category": "Matriz de Confusión"
+  },
+  {
+    "question": "¿Qué métrica se calcula como (VP + VN)/(VP + VN + FP + FN) y mide la proporción total de predicciones correctas?",
+    "options": [
+      "Sensibilidad",
+      "Precisión",
+      "Especificidad",
+      "Exactitud"
+    ],
+    "answer": "Exactitud",
+    "concept": "Métrica: Exactitud (S64)",
+    "formula": "Exactitud: Proporción de predicciones correctas sobre el total.",
+    "category": "Métricas"
+  },
+  {
+    "question": "¿Qué métrica se calcula como VP/(VP+FN) y es crucial para un clasificador que busca tener pocos Falsos Negativos?",
+    "options": [
+      "Especificidad",
+      "Precisión",
+      "Sensibilidad (Recall)",
+      "Valor de Predicción Negativo"
+    ],
+    "answer": "Sensibilidad (Recall)",
+    "concept": "Métrica: Sensibilidad (S64)",
+    "formula": "Sensibilidad/Recall: Mide la proporción de VP predichos, pocos FN.",
+    "category": "Métricas"
+  },
+  {
+    "question": "¿La métrica Precisión se calcula como VP/(VP + FP). ¿Qué mide exactamente?",
+    "options": [
+      "La proporción de Verdaderos Negativos.",
+      "La proporción de predicciones correctas sobre el total.",
+      "La proporción de Verdaderos Positivos reales sobre el total de predicciones positivas.",
+      "La proporción de Falsos Negativos."
+    ],
+    "answer": "La proporción de Verdaderos Positivos reales sobre el total de predicciones positivas.",
+    "concept": "Métrica: Precisión (S64)",
+    "formula": "Precisión: VP sobre todas las predicciones positivas.",
+    "category": "Métricas"
+  },
+  {
+    "question": "¿Qué métrica indica la proporción de Verdaderos Negativos y se calcula como VN/(VN + FP)?",
+    "options": [
+      "Sensibilidad",
+      "Precisión",
+      "F-Score",
+      "Especificidad"
+    ],
+    "answer": "Especificidad",
+    "concept": "Métrica: Especificidad (S64)",
+    "formula": "Especificidad: Proporción de VN.",
+    "category": "Métricas"
+  },
+  {
+    "question": "¿Qué métrica es la media armónica de Precisión y Sensibilidad?",
+    "options": [
+      "Exactitud",
+      "Valor de Predicción Negativo",
+      "F-Score",
+      "Especificidad"
+    ],
+    "answer": "F-Score",
+    "concept": "Métrica: F-Score (S64)",
+    "formula": "F-Score: Media armónica de Precisión y Sensibilidad.",
+    "category": "Métricas"
+  }
+]

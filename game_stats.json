@@ -1,0 +1,49 @@
+{
+  "total_games": 5,
+  "total_questions_answered": 40,
+  "total_correct": 19,
+  "best_score": 11,
+  "sessions": [
+    {
+      "date": "2025-10-27T15:05:38.263493",
+      "score": 8,
+      "errors": 12,
+      "total": 20,
+      "percentage": 40.0,
+      "category": "Todas"
+    },
+    {
+      "date": "2025-10-27T15:19:40.712708",
+      "score": 11,
+      "errors": 9,
+      "total": 20,
+      "percentage": 55.00000000000001,
+      "category": "Todas"
+    },
+    {
+      "score": 3,
+      "errors": 17,
+      "total_questions": 20,
+      "start_time": "2025-10-29T15:46:04.880014",
+      "end_time": "2025-10-29T15:47:22.852420",
+      "category": "Todas"
+    },
+    {
+      "score": 15,
+      "errors": 5,
+      "total_questions": 20,
+      "start_time": "2025-10-29T18:24:32.675017",
+      "end_time": "2025-10-29T18:24:32.675020",
+      "category": "Todas"
+    },
+    {
+      "score": 1,
+      "errors": 19,
+      "total_questions": 20,
+      "start_time": "2025-10-29T18:26:10.845447",
+      "end_time": "2025-10-29T18:26:10.846788",
+      "category": "Todas"
+    }
+  ],
+  "category_stats": {}
+}

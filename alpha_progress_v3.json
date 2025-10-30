@@ -1,0 +1,72 @@
+{
+  "game_state": {
+    "mission": 1,
+    "score": 0,
+    "max_score": 20,
+    "current_story_idx": 310,
+    "story_full_text": "🎓 CONCEPTO CLAVE: La IA que aprende de ejemplos\n\nImagina que tienes una máquina que mira muchos ejemplos del pasado para adivinar qué pasará después. Por ejemplo, mira fotos de perros y gatos para saber cuál es cuál. ¿Qué tipo de Inteligencia Artificial usa datos del pasado para aprender y hacer predicciones?",
+    "status": "Sistema Educativo Profesional Listo",
+    "learning_mode": "adaptive",
+    "difficulty_level": "normal",
+    "time_started": 1761572217.574553,
+    "time_spent": 0,
+    "hints_used": 0,
+    "retries": 0,
+    "streak": 0,
+    "best_streak": 0,
+    "current_question_time": 0,
+    "session_stats": {
+      "correct_answers": [],
+      "incorrect_answers": [],
+      "time_per_question": [],
+      "difficult_concepts": [],
+      "performance_trend": []
+    },
+    "achievements": [],
+    "progress_history": [],
+    "adaptive_settings": {
+      "show_hints": true,
+      "time_limits": true,
+      "detailed_feedback": true,
+      "adaptive_difficulty": true
+    },
+    "session_id": "session_1761572217",
+    "user_id": "default_user",
+    "accessibility_mode": false,
+    "high_contrast": false,
+    "keyboard_navigation": true,
+    "auto_save_enabled": true,
+    "performance_metrics": {
+      "avg_response_time": 0,
+      "accuracy_trend": [],
+      "learning_efficiency": 0,
+      "concept_mastery_levels": {}
+    },
+    "error_log": [],
+    "user_feedback": []
+  },
+  "academic_metrics": {
+    "total_questions": 1,
+    "correct_answers": 0,
+    "mastery_level": 0.0,
+    "best_streak": 0,
+    "hints_used": 0,
+    "retries_used": 0,
+    "time_spent": 63.0353627204895,
+    "achievements": []
+  },
+  "learning_mode": {
+    "mode": "adaptive",
+    "difficulty": "facil",
+    "parameters": {
+      "performance_threshold": 0.7,
+      "difficulty_adjustment_rate": 0.1,
+      "hint_availability": true,
+      "time_limits": true,
+      "explanation_detail": "detailed",
+      "adaptive_difficulty": true
+    }
+  },
+  "timestamp": "2025-10-27T11:11:59.190649",
+  "version": "3.0"
+}

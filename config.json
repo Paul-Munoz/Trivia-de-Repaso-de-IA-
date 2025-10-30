@@ -1,0 +1,19 @@
+{
+  "app": {
+    "title": "Trivia de Repaso de IA",
+    "version": "2.1",
+    "window_size": {"width": 900, "height": 700}
+  },
+  "themes": {
+    "light": {
+      "bg_primary": "#F0F4F8",
+      "bg_secondary": "#FFFFFF",
+      "primary_blue": "#4A90E2",
+      "secondary_green": "#4CAF50",
+      "color_error": "#D32F2F",
+      "text_dark": "#2C3E50",
+      "text_light": "#FFFFFF",
+      "accent_highlight": "#FFC107"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "¿Qué algoritmo de aprendizaje supervisado se usa para clasificación y regresión?",
+    "options": ["K-Means", "Random Forest", "PCA", "Autoencoder"],
+    "answer": "Random Forest",
+    "concept": "Aprendizaje Supervisado",
+    "formula": "Random Forest construye múltiples árboles de decisión y combina sus resultados para mejorar la precisión y evitar el sobreajuste.",
+    "category": "Algoritmos Clásicos"
+  },
+  {
+    "question": "¿Cuál es la función de activación más común en las capas ocultas de una red neuronal profunda?",
+    "options": ["Sigmoid", "Tanh", "Softmax", "ReLU"],
+    "answer": "ReLU",
+    "concept": "Redes Neuronales",
+    "formula": "La función ReLU (Rectified Linear Unit) es f(x) = max(0, x). Es popular por mitigar el problema del gradiente desvanecido.",
+    "category": "Deep Learning"
+  },
+  {
+    "question": "¿Qué métrica se usa para evaluar modelos de clasificación binaria?",
+    "options": ["MSE", "Accuracy", "R²", "MAE"],
+    "answer": "Accuracy",
+    "concept": "Métricas de Evaluación",
+    "formula": "Accuracy = (TP + TN) / (TP + TN + FP + FN), donde TP=Verdaderos Positivos, TN=Verdaderos Negativos, FP=Falsos Positivos, FN=Falsos Negativos.",
+    "category": "Métricas"
+  }
+]
